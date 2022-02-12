@@ -1,0 +1,21 @@
+.btn-blue {
+	background-color: #9FE855;
+	padding: 15px 20x;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Passion One', cursive;
+	padding: 15px 20px;
+	font-size: 20px;
+	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+	box-shadow: #000000 0.1px 0.1px, #000000 -0.1px 0.1px, #000000 -0.1px -0.1px, #000000 0.1px -0.1px;
+	text-align: center;
+	text-decoration: none
+
+}
+
+.btn-blue:hover{
+	background-color: darkgreen;
+	color: white;}
+
+

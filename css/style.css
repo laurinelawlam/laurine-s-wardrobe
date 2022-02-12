@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Lato:wght@300&family=Lora&family=Passion+One:wght@400;700&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/vetement.css");
+
+body{
+	font-family: 'IBM Plex Sans', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: lightyellow;
+   background-image: linear-gradient(-225deg,rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.0) 50%), url(../images/fond.jpg);
+  
+}
+	
+h1{
+	letter-spacing: 1px;
+	font-size: 50px;
+	font-family: 'Passion One', cursive;
+    font-weight: bold;
+    ont-size: 50px;
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+color: #FFFF6E;
+}
+h2 {
+font-family: 'Passion One', cursive;
+font-size: 30px;
+color: #4a895a;
+}
+
+h3{
+font-family: 'Passion One', cursive;
+color: #212823;
+
+}
+
+#banner{
+	font-family: 'Lato', sans-serif;
+}
+
+#monpanier{
+
+	padding-left: 1500px;
+    padding-right: 98px;
+    color: white;
+    font-weight: lighter;
+    font-family: 'Passion One', cursive;
+    font-size: 20px;
+    text-shadow: #000000 0.1px 0.1px, #000000 -0.1px 0.1px, #000000 -0.1px -0.1px, #000000 0.1px -0.1px;
+    background-image: url(../images/noir.jpg);
+
+}
+
+#monpanier:hover{
+	
+	color: pink;
+}
+
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+
+
+#description{
+	background-color: lightpink;
+}
+
+#abc:hover{
+	color: pink;
+}
